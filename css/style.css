@@ -1,0 +1,39 @@
+h1 {
+    font-size: 36px;
+    text-align: center;
+}
+
+.perfil {
+    text-align: center;
+    font-size: 18px;
+}
+
+h2 {
+    font-size: 28px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 24px;
+    text-align: left;
+}
+
+small {
+    display: block;
+    text-align: right;
+    font-size: 18px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+strong {
+    font-size: 20px;
+}
+
+footer {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}
