@@ -3,19 +3,24 @@ h1 {
     text-align: center;
 }
 
-.perfil {
-    text-align: center;
-    font-size: 18px;
-}
-
 h2 {
+
     font-size: 28px;
     text-align: center;
 }
 
 h3 {
     font-size: 24px;
-    text-align: left;
+    text-align: le;
+}
+
+.perfil {
+    text-align: center;
+    font-size: 18px;
+}
+
+strong {
+    font-size: 20px;
 }
 
 small {
@@ -25,10 +30,6 @@ small {
 }
 
 ul {
-    font-size: 20px;
-}
-
-strong {
     font-size: 20px;
 }
 
