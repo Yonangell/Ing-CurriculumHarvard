@@ -1,3 +1,9 @@
+/* Estilos CSS para el currículum */
+* {
+     box-sizing: border-box; 
+    /* margin: 0;   */
+    padding: 0;  
+}
 body {
     font-family: Arial, sans-serif;
     background-color: lightgray;
@@ -46,6 +52,6 @@ footer {
     text-align: center;
     font-size: 18px;
     margin-top: 20px;
-    width: 100%;
-    padding: 0.5%;
+    width: 100%; 
+    padding: 2rem;
 }
